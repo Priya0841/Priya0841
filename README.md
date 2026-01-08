@@ -10,4 +10,4 @@ strengthen problem-solving skills.
 - Gaining hands-on experience through backend and networking projects
 - Interested in software engineering roles and learning from real-world systems
 
-Open to internships and opportunities to learn and grow as a software engineer.
+Open to internships and opportunities to learn and grow as a software engineer...
