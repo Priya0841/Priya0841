@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Priya.
+I'm Ganti Padma Priya.
 
 I'm a Computer Science student interested in software development and backend systems.
 I enjoy building small projects to understand how software works internally and to
